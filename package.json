@@ -1,0 +1,24 @@
+{
+  "name": "app-cooperativismo-voto",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MarceloMarquesdeLima/App-cooperativismo-voto#readme",
+  "bugs": {
+    "url": "https://github.com/MarceloMarquesdeLima/App-cooperativismo-voto/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloMarquesdeLima/App-cooperativismo-voto.git"
+  },
+  "license": "ISC",
+  "author": "Marcelo Marques de Lima",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
