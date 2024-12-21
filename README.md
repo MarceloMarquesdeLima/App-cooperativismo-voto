@@ -1,1 +1,0 @@
-# App-cooperativismo-voto
