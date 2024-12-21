@@ -1,16 +1,19 @@
+<div>
+<p>
+    <h3> Instalação necessária:</h3>
+    <p> 1º NodeJS na Versão 23.5.0</p>
+</p>
 
-<<<<<<< HEAD
-- NodeJS na Versão 23.5.0
 
-Criação da base do projeto:
+<p>
+<h3>Criação da base do projeto:</h3>
 
-Criado o repositório do projeto.
+<p>1º Criado o repositório do projeto.</p>
 
-Clonar no  local para desenvolvimento ou execusão.
+<p>2º Clonar no  local para desenvolvimento ou execusão.</p>
 
-Dentro da pasta do projeto rodar o comando npm init: preencher apenas o nome do autor, e se tiver na sua primeira versão poderá colocar a ordenação de versionamento.
+<p>3º Dentro da pasta do projeto rodar o comando npm init: preencher apenas o nome do autor, e se tiver na sua primeira versão poderá colocar a ordenação de versionamento.</p>
 
-Rodar o comando dentro da pasta do projeto que foi clonado: wedpack webpack-cli
-=======
-
->>>>>>> 2cb84e65d9a936c37835de61a8ea6e41e47ebd6f
+<p>4º Rodar o comando dentro da pasta do projeto que foi clonado: wedpack webpack-cli</p>
+</p>
+</div>
