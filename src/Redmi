@@ -1,10 +1,14 @@
-Instalações nescessárias:
 
-- NodeJS na Versão 23.5.0
+### Marcelo Marques de Lima 👋
+### Aplicação de voto de cooperados
 
-Criação da base do projeto:
+<div>
+- Instalações nescessárias: NodeJS na Versão 23.5.0
+</div>
 
+<div>
 - Criado o repositório do projeto.
 - Clonar no  local para desenvolvimento ou execusão.
 - dentro da pasta do projeto rodar o comando npm init: preencher apenas o nome do autor, e se tiver na sua primeira versão poderá colocar a ordenação de versionamento.
 - rodar o comando dentro da pasta do projeto que foi clonado: wedpack webpack-cli.
+</div>
